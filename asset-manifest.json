@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/xcentium/static/css/main.805f0a65.chunk.css",
+    "main.js": "/xcentium/static/js/main.a4d29775.chunk.js",
+    "main.js.map": "/xcentium/static/js/main.a4d29775.chunk.js.map",
+    "runtime-main.js": "/xcentium/static/js/runtime-main.cda18d16.js",
+    "runtime-main.js.map": "/xcentium/static/js/runtime-main.cda18d16.js.map",
+    "static/css/2.818011ed.chunk.css": "/xcentium/static/css/2.818011ed.chunk.css",
+    "static/js/2.a5d9ce52.chunk.js": "/xcentium/static/js/2.a5d9ce52.chunk.js",
+    "static/js/2.a5d9ce52.chunk.js.map": "/xcentium/static/js/2.a5d9ce52.chunk.js.map",
+    "static/js/3.c6d0912a.chunk.js": "/xcentium/static/js/3.c6d0912a.chunk.js",
+    "static/js/3.c6d0912a.chunk.js.map": "/xcentium/static/js/3.c6d0912a.chunk.js.map",
+    "index.html": "/xcentium/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/xcentium/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.805f0a65.chunk.css.map": "/xcentium/static/css/main.805f0a65.chunk.css.map",
+    "static/js/2.a5d9ce52.chunk.js.LICENSE.txt": "/xcentium/static/js/2.a5d9ce52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda18d16.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a5d9ce52.chunk.js",
+    "static/css/main.805f0a65.chunk.css",
+    "static/js/main.a4d29775.chunk.js"
+  ]
+}
