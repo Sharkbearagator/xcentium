@@ -52,3 +52,9 @@ ul{
   li {
     display: flexbox;
   }
+.bothnav{
+  background-color: rgb(53,75,88);
+}
+a.navbar-brand{
+  color: white;
+}
