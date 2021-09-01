@@ -16,17 +16,17 @@ const finalCards = [
   {
     id: 'first',
     title: 'First Card',
-    image: "/assets/Photo 1.jpg" 
+    image: "https://uc3f02b47015969c22811153a502.previews.dropboxusercontent.com/p/thumb/ABTYMYomy2f6SPM_jqoxPYvM_5VhZET3D3g5SYfjajV72WaqZl0CkL8nTQSe5g8zKABMxaTlNzawQ2tnjrpYck8dXBEa_Flq5DQu4WaY46FnAesRk1DMT_zln7GCAxq317Vc2ceFQhOnSxm7iqsezohjesN2STe9nhEy7BNE57yNOk1nTvrgNmBteg1P0BhyIkEPA12YvMQEkfexxHWsXTUOV4MnZpPseNBFIj6Uwj43nviLrzMGiIoUI0cyKIO9d_pPvNvqslp-QOUG6kH1Xf0XiFINZUKxVqjxrNF6fhm4Sm44HTabRwUH_5b3iCvoKCc2biRY6Ix-X8SOfV6nBAZK3igdMI_L_ljWp9793XcLIw/p.jpeg?size=178x178&size_mode=1" 
   },
   {
     id: 'second',
     title: 'Second Card',
-    image:"/assets/Photo 2.jpg"
+    image:"https://uc18ec214665bc3d4841f7af48ed.previews.dropboxusercontent.com/p/thumb/ABTxZvCHp_S5U1UdavPr1dDfAEW1U3Z__h61yqE_5Pr9I5cwloEAeDyKhtQ4bizogHYA79bv23PAmHPvxGqBg6RqYaUQD1B9imemoi-QEF72whE-yNEWGB3wf2E1y557qpC3DF8tlTxBUpAh_sF7Ron_u5-Te9n8__jpQsVj93GS1YLMaVx0yFJktSGKED3ohvPydx_E7pZ7WLYDomdP0K-bz_bpn_dVF0CHjpCaB22gSHhgB22sVzgr7XJnBN4UrR04hIhr5KVuVAijJoziFgL4P3pwtgYJKlXTvA5k5EeQ8ZazEEFW4DewfNamiLb8Qfny4iCKpZJKoLy-uDtYM7Q_k6zsgJmRjXUeeAEveBkGsA/p.jpeg?size=178x178&size_mode=1"
   },
   {
     id: 'third',
     title: 'Third Card',
-    image: "/assets/Photo 3.jpg"
+    image: "https://uc43e9325415b947015bd5ce74d3.previews.dropboxusercontent.com/p/thumb/ABRlMgh7Cu5ync8SEJPrD2VsIvL_Z53GiUL2vw8v_P53TTmkf0zrwWSosxpdj2X2hPHwRjkUp19yYbxScKclI5xqI00iInvZGdkxxid9NmymKMFt3_CuR2xlSJEw-5elR3_NMGKz0w1XA8n6nMtBmAGASODAAwC8dbsGolzrTt7Xt8tsKoj7H9F0F8P4zC_m6qAUfc7mbc4fLgu_2tov6bLsi5lAlk3PqKdjr63FR175FgI2vGC-MKHb-7aNhTFUT-ejWpoxUrE226cOWZdhhYeWQO5zje4C9y8R9TQnyX-t7UnylmK8taoha5wu3fll6lz36FC38eBUxxt4fhaoUrV2R-xCCDtpOxPo8_xuj2L-6Q/p.jpeg?size=178x178&size_mode=1"
   }
 ]
 
