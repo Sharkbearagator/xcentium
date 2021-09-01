@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xcentium/static/css/main.805f0a65.chunk.css",
-    "main.js": "/xcentium/static/js/main.a4d29775.chunk.js",
-    "main.js.map": "/xcentium/static/js/main.a4d29775.chunk.js.map",
+    "main.js": "/xcentium/static/js/main.aa4fd23e.chunk.js",
+    "main.js.map": "/xcentium/static/js/main.aa4fd23e.chunk.js.map",
     "runtime-main.js": "/xcentium/static/js/runtime-main.cda18d16.js",
     "runtime-main.js.map": "/xcentium/static/js/runtime-main.cda18d16.js.map",
     "static/css/2.818011ed.chunk.css": "/xcentium/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a5d9ce52.chunk.js",
     "static/css/main.805f0a65.chunk.css",
-    "static/js/main.a4d29775.chunk.js"
+    "static/js/main.aa4fd23e.chunk.js"
   ]
 }
